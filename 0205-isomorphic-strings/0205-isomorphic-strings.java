@@ -1,6 +1,7 @@
 class Solution {
     public boolean isIsomorphic(String s, String t) {
-        if (s.length() != t.length()) return false;
+        if (s.length() != t.length()) 
+        return false;
 
         int[] lastS = new int[256];
         int[] lastT = new int[256];
