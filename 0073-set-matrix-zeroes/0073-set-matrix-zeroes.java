@@ -5,43 +5,69 @@ class Solution {
 
         boolean firstRowZero = false;
         boolean firstColZero = false;
+        //check 1st row
+        for(int j=0;j<n;j++)
+            if(matrix[0][j]==0)
+            firstRowZero=true;
 
-        // check first row
-        for (int j = 0; j < n; j++)
-            if (matrix[0][j] == 0)
-                firstRowZero = true;
+//check 1st colomn
+for(int i=0;i<m;i++)
+    if(matrix[i][0]==0)
+        firstColZero=true;
+    
+//travel
+for(int i=1;i<m;i++){
+    for(int j=1;j<n;j++){
 
-        // check first column
-        for (int i = 0; i < m; i++)
-            if (matrix[i][0] == 0)
-                firstColZero = true;
+if(matrix[i][j]==0){
+    matrix[0][j]=0;
+    matrix[i][0]=0;
+}
 
-        // mark rows & columns
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][j] == 0) {
-                    matrix[i][0] = 0;
-                    matrix[0][j] = 0;
-                }
+
+    }
+    }
+    for(int i=1;i<m;i++){
+        for(int j=1;j<n;j++){
+            if(matrix[i][0]==0 || matrix[0][j]==0){
+                matrix[i][j]=0;
+
             }
         }
+    }
+if(firstRowZero){
+    for(int j=0;j<n;j++){
+        matrix[0][j]=0;
 
-        // apply zeroes
-        for (int i = 1; i < m; i++) {
-            for (int j = 1; j < n; j++) {
-                if (matrix[i][0] == 0 || matrix[0][j] == 0)
-                    matrix[i][j] = 0;
-            }
-        }
-
-        // fix first row
-        if (firstRowZero)
-            for (int j = 0; j < n; j++)
-                matrix[0][j] = 0;
-
-        // fix first column
-        if (firstColZero)
-            for (int i = 0; i < m; i++)
-                matrix[i][0] = 0;
     }
 }
+if(firstColZero){
+    for(int i=0;i<m;i++){
+        matrix[i][0]=0;
+
+    }
+}
+     
+
+
+
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+     
