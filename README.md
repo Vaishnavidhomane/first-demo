@@ -14,4 +14,8 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/Vaishnavidhomane/first-demo/tree/main/1021-remove-outermost-parentheses/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0485-max-consecutive-ones](https://github.com/Vaishnavidhomane/first-demo/tree/main/0485-max-consecutive-ones/) | Easy |
 <!---LeetCode Topics End-->
