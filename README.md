@@ -49,4 +49,8 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishnavidhomane/first-demo/tree/main/0002-add-two-numbers/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/Vaishnavidhomane/first-demo/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
