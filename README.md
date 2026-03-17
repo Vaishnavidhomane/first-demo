@@ -30,6 +30,7 @@ Author - Vaishnavi Dhomane
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Vaishnavidhomane/first-demo/tree/main/0002-add-two-numbers/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/Vaishnavidhomane/first-demo/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -42,5 +43,10 @@ Author - Vaishnavi Dhomane
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Vaishnavidhomane/first-demo/tree/main/0002-add-two-numbers/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/Vaishnavidhomane/first-demo/tree/main/0876-middle-of-the-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/Vaishnavidhomane/first-demo/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->
