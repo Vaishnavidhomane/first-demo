@@ -54,4 +54,5 @@ Author - Vaishnavi Dhomane
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/Vaishnavidhomane/first-demo/tree/main/0175-combine-two-tables/) | Easy |
 | [0584-find-customer-referee](https://github.com/Vaishnavidhomane/first-demo/tree/main/0584-find-customer-referee/) | Easy |
+| [1148-article-views-i](https://github.com/Vaishnavidhomane/first-demo/tree/main/1148-article-views-i/) | Easy |
 <!---LeetCode Topics End-->
