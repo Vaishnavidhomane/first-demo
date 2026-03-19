@@ -55,5 +55,6 @@ Author - Vaishnavi Dhomane
 | [0175-combine-two-tables](https://github.com/Vaishnavidhomane/first-demo/tree/main/0175-combine-two-tables/) | Easy |
 | [0584-find-customer-referee](https://github.com/Vaishnavidhomane/first-demo/tree/main/0584-find-customer-referee/) | Easy |
 | [1148-article-views-i](https://github.com/Vaishnavidhomane/first-demo/tree/main/1148-article-views-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Vaishnavidhomane/first-demo/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/Vaishnavidhomane/first-demo/tree/main/1683-invalid-tweets/) | Easy |
 <!---LeetCode Topics End-->
