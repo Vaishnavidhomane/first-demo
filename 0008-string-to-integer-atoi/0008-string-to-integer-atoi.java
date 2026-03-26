@@ -1,36 +1,37 @@
 class Solution {
     public int myAtoi(String s) {
+        s=s.trim();
         int sign=1;
-        long result=0;
         int i=0;
         int n=s.length();
+        long num=0;
+        if(s.isEmpty()){
+            return 0;
 
-        //for whitespace
-        while(i<n && s.charAt(i)==' '){
-            i++;
         }
-        //for signed
-        if(i<n &&( s.charAt(i)=='+' || s.charAt(i)=='-')){
+        //condition of sign
+        if(s.charAt(i)== '+' || s.charAt(i)=='-'){
             if(s.charAt(i)=='-'){
                 sign=-1;
             }
             i++;
 
         }
-        //coversion
+        //convert digit
         while(i<n && Character.isDigit(s.charAt(i))){
-            result=result*10 + (s.charAt(i)-'0'); //ascii
-            if(sign==1 && result>Integer.MAX_VALUE){
-                return Integer.MAX_VALUE;
-
-            }
-            if(sign==-1 && -result<Integer.MIN_VALUE){
-                return Integer.MIN_VALUE;
-
-            }
-            i++;
-
+             num=num*10 + (s.charAt(i)-'0');
+                if(num*sign> Integer.MAX_VALUE){
+                    return Integer.MAX_VALUE;
+                }
+                if(num*sign< Integer.MIN_VALUE){
+                    return Integer.MIN_VALUE;
+                }
+ i++;
+             }
+             
+  return (int) (num*sign);
         }
-        return (int)(sign*result);
-        }
-}
+      
+       
+
+    }
