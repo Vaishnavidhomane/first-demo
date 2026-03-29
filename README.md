@@ -11,6 +11,7 @@ Author - Vaishnavi Dhomane
 | ------- | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Vaishnavidhomane/first-demo/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Vaishnavidhomane/first-demo/tree/main/0014-longest-common-prefix/) | Easy |
+| [0022-generate-parentheses](https://github.com/Vaishnavidhomane/first-demo/tree/main/0022-generate-parentheses/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/Vaishnavidhomane/first-demo/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [1021-remove-outermost-parentheses](https://github.com/Vaishnavidhomane/first-demo/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Vaishnavidhomane/first-demo/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -74,4 +75,12 @@ Author - Vaishnavi Dhomane
 | ------- | ------- |
 | [0141-linked-list-cycle](https://github.com/Vaishnavidhomane/first-demo/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/Vaishnavidhomane/first-demo/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Vaishnavidhomane/first-demo/tree/main/0022-generate-parentheses/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Vaishnavidhomane/first-demo/tree/main/0022-generate-parentheses/) | Medium |
 <!---LeetCode Topics End-->
