@@ -37,6 +37,7 @@ Author - Vaishnavi Dhomane
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishnavidhomane/first-demo/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Vaishnavidhomane/first-demo/tree/main/0050-powx-n/) | Medium |
+| [0509-fibonacci-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0509-fibonacci-number/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/Vaishnavidhomane/first-demo/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@ Author - Vaishnavi Dhomane
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Vaishnavidhomane/first-demo/tree/main/0002-add-two-numbers/) | Medium |
 | [0050-powx-n](https://github.com/Vaishnavidhomane/first-demo/tree/main/0050-powx-n/) | Medium |
+| [0509-fibonacci-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0509-fibonacci-number/) | Easy |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,8 +81,13 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Vaishnavidhomane/first-demo/tree/main/0022-generate-parentheses/) | Medium |
+| [0509-fibonacci-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0509-fibonacci-number/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/Vaishnavidhomane/first-demo/tree/main/0022-generate-parentheses/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
