@@ -23,6 +23,7 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Vaishnavidhomane/first-demo/tree/main/0014-longest-common-prefix/) | Easy |
+| [0136-single-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0136-single-number/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/Vaishnavidhomane/first-demo/tree/main/0485-max-consecutive-ones/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -91,4 +92,8 @@ Author - Vaishnavi Dhomane
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0509-fibonacci-number/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/Vaishnavidhomane/first-demo/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
